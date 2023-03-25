@@ -198,6 +198,7 @@
 
               <br>
               <input type="submit" value=" إنشاء جدولي "<a _ngcontent-keb-c6="" class="btn" seu-auto-print="">
+              <a _ngcontent-keb-c6="" class="btn" seu-auto-print="" href="mailto:recipient@example.com?subject=Test%20Email&body=This%20is%20a%20test%20email.">إنشاء أيميل لدعم المقترح</a>
             </form>
 
           </div>
